@@ -50,7 +50,7 @@ const Home = () => {
   return (
     <div className="root">
       <Head>
-        <title>Fantastic AI Image Prompt</title>
+        <title>AI Image Prompt</title>
       </Head>
       <div className="container">
         <div className="header">
@@ -58,7 +58,7 @@ const Home = () => {
             <h1>Magic Image Prompt Generator</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Input a topic you are interested in and we will generate a magic prompt for AI image generation (use it for Stable Diffusion, Mid-Journey, Dalle or whatever you like!) !</h2>
+            <h2>Input a topic you are interested in and we will generate a magic prompt for AI image generation (use it for Stable Diffusion, Mid-Journey, Dalle or whatever you like to see the magic!)</h2>
           </div>
         </div>
       </div>
