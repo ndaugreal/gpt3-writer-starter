@@ -50,7 +50,7 @@ const Home = () => {
   return (
     <div className="root">
       <Head>
-        <title>GPT-3 Writer | buildspace</title>
+        <title>Fantastic AI Image Prompt</title>
       </Head>
       <div className="container">
         <div className="header">

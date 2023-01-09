@@ -186,6 +186,7 @@ textarea {
     width: min-content;
     will-change: transform;
     cursor: pointer;
+    margin: 0 auto;
 }
 
 .generate {
